@@ -1,4 +1,4 @@
-# INT 355 NATURAL LANGUAGE PROCESS 
+# INT 344 NATURAL LANGUAGE PROCESS 
 COURSERA ALL 4 COURSES ANSWERS
 Natural Language Processing with Probabilistic Models
 Natural Language Processing with Classification and Vector Spaces
